@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# Author: Runsheng Xu <rxx3386@ucla.edu>
-# License: TDG-Attribution-NonCommercial-NoDistrib
-
-# load radar data - Jinlong Wang 2024-09-01
-# load sim_data - Jinlong Wang 2024-09-01
-
 """
 Basedataset class for all kinds of fusion.
 """
